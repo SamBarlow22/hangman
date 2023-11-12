@@ -29,13 +29,13 @@ To run the Python Hangman Game on your local machine, follow these steps:
 3. Have fun!
 
 ## File structure
-  ├── milestone_1.py  # Setting up the game environment
-  ├── milestone_2.py  # Creating game variables
-  ├── milestone_3.py  # Check if guessed character is in the word
-  ├── milestone_2_and_3.py  # Milestone 2 and 3 combined
-  ├── milestone_4.py  # Creating the game class
-  ├── milestone_5.py  # Main game script
-  ├── README.md  # Project documentation
+  - ├── milestone_1.py  # Setting up the game environment
+  - ├── milestone_2.py  # Creating game variables
+  - ├── milestone_3.py  # Check if guessed character is in the word
+  - ├── milestone_2_and_3.py  # Milestone 2 and 3 combined
+  - ├── milestone_4.py  # Creating the game class
+  - ├── milestone_5.py  # Main game script
+  - ├── README.md  # Project documentation
 
 ## License
 This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as you see fit, but make sure to provide the appropriate attribution and adhere to the terms of the license.
