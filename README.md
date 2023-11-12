@@ -11,7 +11,7 @@
 ### Description
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain number of attempts.
 
-This is an implementation of the Hangman game, where the computer randomly generates a word from a list and the user attempts to guess the word by entering indiviudal letters. The player must guess the word before all sections of the hangman have been added, where each failed guess at a letter results in a section of the hangman being added.
+This is an implementation of the Hangman game, where the computer randomly generates a word from a list and the user attempts to guess the word by entering indiviudal letters. The player must guess the letters in the word before they lose all of their lives.
 
 ### Features
 - Randomly selects a word from a predefined list of words.
@@ -20,12 +20,13 @@ This is an implementation of the Hangman game, where the computer randomly gener
 
 ## Installation
 To run the Python Hangman Game on your local machine, follow these steps:
-1. Clone the repository to your local machine
-2. Navigate to the project directory
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Open the file.
 
 ## Usage
-1. Follow the onscreen instructions and guess individual alphabetical letters
-2. The game will end if you either guess all of the letters in the word or run out of lines
+1. Follow the onscreen instructions and guess individual alphabetical letters.
+2. The game will end if you either guess all of the letters in the word or run out of lives.
 3. Have fun!
 
 ## File structure
